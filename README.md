@@ -1,9 +1,14 @@
-# Nexus  
+# HackNexus  
 
-Nexus is a revolutionary platform built on the **Aptos Devnet** that combines geospatial NFTs, blockchain, and AI-powered tools to transform hackathon experiences. 
+HackNexus is a platform built on the **Aptos Devnet** that combines geospatial NFTs, blockchain, and AI-powered tools to transform hackathon experiences. 
 
 https://github.com/user-attachments/assets/58b970b5-c408-409a-8dcb-a81bb9ec793b
+---
 
+## Architecture
+![image](https://github.com/user-attachments/assets/4a3bc874-7b36-4299-85bf-5ad3ae6703c0)
+
+---
 ## 🚀 Features  
 ### ✅ Completed Features  
 - [x] **Smart Contract for geospatial NFT minting**  
