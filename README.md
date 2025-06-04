@@ -3,6 +3,7 @@
 HackNexus is a platform built on the **Aptos Devnet** that combines geospatial NFTs, blockchain, and AI-powered tools to transform hackathon experiences. 
 
 https://github.com/user-attachments/assets/58b970b5-c408-409a-8dcb-a81bb9ec793b
+
 ---
 
 ## Architecture
